@@ -1,0 +1,115 @@
+.navbar-brand {
+  background-color:black;
+  color:white;
+  padding:10px;
+}
+
+col-md-7{
+  margin-right:15px;
+}
+
+
+#img1 {
+
+  float:left;
+  margin-right: 13px;
+}
+
+.heading{
+  font-family: georgia;
+  color:rgb(6, 146, 177);
+  font-weight: bold;
+}
+
+.container{
+  flex-wrap: wrap;
+}
+
+table {
+  padding-top: auto;
+    height:450px;
+    width: 100%;
+    overflow-x:auto;
+    overflow-y:auto;
+    display:block;
+    table-layout:fixed;
+
+
+  }
+
+thead{
+  border-bottom-style:solid
+  position:fixed;
+  table-layout: fixed;
+}
+
+#colstyle{
+  background-color: white;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  margin-right: 25px;
+  margin-top: 15px;
+}
+
+#vis-style{
+  background-color: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-top: 15px;
+}
+
+body {
+  background-color: rgb(235, 235, 235);
+}
+
+#comparison {
+  background-color:white;
+  padding-top: 20px;
+  margin-bottom: 100px;
+  padding-bottom: 20px;
+  position: relative;
+  left: 180px;
+}
+
+#data{
+  background-color: white;
+  padding-top:20px;
+  margin-bottom: 60px;
+  position:relative;
+  left:90px;
+}
+
+#windspeed{
+  background-color: white;
+  margin-right:30px;
+  margin-top: 14px;
+  padding-top:30px;
+}
+
+#temp{
+  background-color: white;
+  margin-right: 30px;
+  padding-top: 30px;
+  margin-top: 14px;
+}
+
+#cloud {
+  background-color: white;
+  margin-right: 30px;
+  padding-top: 30px;
+  margin-top: 14px;
+
+}
+
+#humidity{
+  background-color: white;
+  margin-right: 30px;
+  padding-top: 30px;
+  margin-top: 14px;
+}
+
+#lat{
+  font-family: georgia;
+  font-size: 40px;
+  font-weight: bold
+}
